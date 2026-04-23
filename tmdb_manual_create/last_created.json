@@ -1,0 +1,17 @@
+{
+  "name": "Ultimos agregados",
+  "samples": [
+    {
+      "name": "Super Mario Galaxy: La película",
+      "url": "https://vikingfile.com/d/9ToYX4Aqyk/The.Super.Mario.Galaxy.Movie.2026.1080p.DCPRIP.mkv",
+      "icono": "https://image.tmdb.org/t/p/original/pLQQMO77ohibggTKV6wmFs5LHYf.jpg",
+      "iconoHorizontal": "https://image.tmdb.org/t/p/original/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+      "iconpng": "https://image.tmdb.org/t/p/original/qv9YmMP6Q9otzDGeyhYEz4otKJv.png",
+      "type": "PELICULA",
+      "descripcion": "Mario y Luigi se enfrentan una nueva amenaza: Bowser Jr., quién está decidido liberar a su padre del cautiverio y restaurar el legado familiar. Junto con nuevos y viejos compañeros, los hermanos viajan a través de las estrellas para detener la cruzada del joven heredero.",
+      "anio": "2026",
+      "genero": "Familia, Comedia, Aventura, Fantasía, Animación",
+      "duracion": "98 min"
+    }
+  ]
+}
