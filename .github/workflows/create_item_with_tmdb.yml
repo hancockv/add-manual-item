@@ -1,0 +1,72 @@
+name: Crear item (url+nombre+grupo) y completar con TMDB (es-MX)
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+    inputs:
+      video_url:
+        description: "URL del video"
+        required: true
+      nombre:
+        description: "Nombre (puede estar en ES o EN)"
+        required: true
+      grupo:
+        description: "Grupo (se guarda en record.name)"
+        required: true
+      output_dir:
+        description: "Carpeta de salida en la raiz"
+        required: false
+        default: "tmdb_manual_create"
+      language:
+        description: "Idioma TMDB (LatAm recomendado: es-MX)"
+        required: false
+        default: "es-MX"
+      fallback_language:
+        description: "Idioma fallback (en-US recomendado)"
+        required: false
+        default: "en-US"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          pip install --no-cache-dir requests
+
+      - name: Create item and enrich with TMDB
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: |
+          python scripts/create_item_tmdb.py \
+            --video-url "${{ github.event.inputs.video_url }}" \
+            --nombre "${{ github.event.inputs.nombre }}" \
+            --grupo "${{ github.event.inputs.grupo }}" \
+            --output-dir "${{ github.event.inputs.output_dir }}" \
+            --language "${{ github.event.inputs.language }}" \
+            --fallback-language "${{ github.event.inputs.fallback_language }}"
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "${{ github.event.inputs.output_dir }}"
+          if ! git diff --cached --exit-code; then
+            git commit -m "Crear item manual y enriquecer con TMDB"
+            git push
+          else
+            echo "No hay cambios"
+          fi
