@@ -1,15 +1,15 @@
 {
-  "timestamp_utc": "2026-04-28T05:47:03.749031Z",
+  "timestamp_utc": "2026-04-28T05:48:05.616812Z",
   "input": {
-    "url": "http://ptccloud.lsdwedsfsc.site/vod/9876E11675904A65875957C6781136B8_media.ts",
-    "nombre": "Tu Yaa Main (2026)",
+    "url": "http://ptccloud.lsdwedsfsc.site/vod/05530A32432440218B1D2986EC55A77B_media.ts",
+    "nombre": "Buena suerte, diviértete, no mueras (2026)",
     "grupo": "Ultimos agregados"
   },
   "enriched": true,
   "language": "es-MX",
   "fallback_language": "en-US",
   "groups_total": 1,
-  "samples_total": 56,
+  "samples_total": 57,
   "replaced_existing_url": false,
   "output_dir": "tmdb_manual_create"
 }
