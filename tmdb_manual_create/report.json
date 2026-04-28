@@ -1,15 +1,15 @@
 {
-  "timestamp_utc": "2026-04-28T05:40:10.513362Z",
+  "timestamp_utc": "2026-04-28T05:42:10.018335Z",
   "input": {
-    "url": "http://ptccloud.lsdwedsfsc.site/vod/4845AEAD7A6D492D96E2242B8D2621A3_media.ts",
-    "nombre": "Te van a matar (2026)",
+    "url": "http://ptccloud.lsdwedsfsc.site/vod/01B7AE8EB8B44FC0995582937F293826_media.ts",
+    "nombre": "El Último Conquistador (2026)",
     "grupo": "Ultimos agregados"
   },
   "enriched": true,
   "language": "es-MX",
   "fallback_language": "en-US",
   "groups_total": 1,
-  "samples_total": 53,
+  "samples_total": 54,
   "replaced_existing_url": false,
   "output_dir": "tmdb_manual_create"
 }
