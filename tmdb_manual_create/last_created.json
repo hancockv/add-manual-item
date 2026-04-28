@@ -2,16 +2,16 @@
   "name": "Ultimos agregados",
   "samples": [
     {
-      "name": "Mexicali",
-      "url": "http://ptccloud.lsdwedsfsc.site/vod/9FFD24E274F84902AC1510953E9B1094_media.ts",
-      "icono": "https://image.tmdb.org/t/p/original/kQbmqipH7YvmILnB0PF8faOEcUp.jpg",
-      "iconoHorizontal": "https://image.tmdb.org/t/p/original/zFvkgLY85gffP1ulQgzkEQPL8Nr.jpg",
-      "iconpng": "",
+      "name": "El sonido de la muerte",
+      "url": "http://ptccloud.lsdwedsfsc.site/vod/4EC0F9B9A2FD450AA0D3DD2D26F5DF77_media.ts",
+      "icono": "https://image.tmdb.org/t/p/original/cApRXj6meulAQMYQrhjfVvZEItl.jpg",
+      "iconoHorizontal": "https://image.tmdb.org/t/p/original/yJi6g0CnsqANLNuVaRX28tZxeHX.jpg",
+      "iconpng": "https://image.tmdb.org/t/p/original/bkeWdCaLVcduBDUL9mmVuC2j9x2.png",
       "type": "PELICULA",
-      "descripcion": "A former special forces contractor is forced out of retirement as an avocado farmer in Mexico when local gangsters try to force him and his family off their farm.",
+      "descripcion": "Un grupo de estudiantes inadaptados encuentra por accidente un objeto maldito: un antiguo silbato de la muerte azteca. Al soplarlo, descubren que el terrorífico sonido que produce invoca a sus propias muertes futuras para perseguirlos. Mientras las víctimas aumentan, los amigos intentan descubrir el origen del artefacto y detener la terrible cadena de sucesos que han provocado.",
       "anio": "2026",
-      "genero": "Acción, Drama",
-      "duracion": "99 min"
+      "genero": "Terror, Misterio",
+      "duracion": "100 min"
     }
   ]
 }

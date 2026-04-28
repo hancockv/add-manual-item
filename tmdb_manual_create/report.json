@@ -1,15 +1,15 @@
 {
-  "timestamp_utc": "2026-04-28T05:35:07.264427Z",
+  "timestamp_utc": "2026-04-28T05:38:08.424461Z",
   "input": {
-    "url": "http://ptccloud.lsdwedsfsc.site/vod/9FFD24E274F84902AC1510953E9B1094_media.ts",
-    "nombre": "Mexicali (2026)",
+    "url": "http://ptccloud.lsdwedsfsc.site/vod/4EC0F9B9A2FD450AA0D3DD2D26F5DF77_media.ts",
+    "nombre": "Whistle: El silbido del mal (2026)",
     "grupo": "Ultimos agregados"
   },
   "enriched": true,
   "language": "es-MX",
   "fallback_language": "en-US",
   "groups_total": 1,
-  "samples_total": 51,
+  "samples_total": 52,
   "replaced_existing_url": false,
   "output_dir": "tmdb_manual_create"
 }
