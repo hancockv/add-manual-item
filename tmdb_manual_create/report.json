@@ -1,15 +1,15 @@
 {
-  "timestamp_utc": "2026-04-28T05:43:52.643778Z",
+  "timestamp_utc": "2026-04-28T05:47:03.749031Z",
   "input": {
-    "url": "http://ptccloud.lsdwedsfsc.site/vod/19D0BDF528F7416DB4E12A6EE17343A6_media.ts",
-    "nombre": "Frontera (2025)",
+    "url": "http://ptccloud.lsdwedsfsc.site/vod/9876E11675904A65875957C6781136B8_media.ts",
+    "nombre": "Tu Yaa Main (2026)",
     "grupo": "Ultimos agregados"
   },
   "enriched": true,
   "language": "es-MX",
   "fallback_language": "en-US",
   "groups_total": 1,
-  "samples_total": 55,
+  "samples_total": 56,
   "replaced_existing_url": false,
   "output_dir": "tmdb_manual_create"
 }
