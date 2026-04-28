@@ -3,6 +3,18 @@
     "name": "Ultimos agregados",
     "samples": [
       {
+        "name": "Mexicali",
+        "url": "http://ptccloud.lsdwedsfsc.site/vod/9FFD24E274F84902AC1510953E9B1094_media.ts",
+        "icono": "https://image.tmdb.org/t/p/original/kQbmqipH7YvmILnB0PF8faOEcUp.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/zFvkgLY85gffP1ulQgzkEQPL8Nr.jpg",
+        "iconpng": "",
+        "type": "PELICULA",
+        "descripcion": "A former special forces contractor is forced out of retirement as an avocado farmer in Mexico when local gangsters try to force him and his family off their farm.",
+        "anio": "2026",
+        "genero": "Acción, Drama",
+        "duracion": "99 min"
+      },
+      {
         "name": "दो दीवाने शहर में",
         "url": "http://ptccloud.lsdwedsfsc.site/vod/36DC2735689F45719355E975BCC2BBFC_media.ts",
         "icono": "https://image.tmdb.org/t/p/original/oGav9OuIJTODO9p9hXJBTJHuawM.jpg",

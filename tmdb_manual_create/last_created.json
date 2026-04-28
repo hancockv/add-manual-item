@@ -2,16 +2,16 @@
   "name": "Ultimos agregados",
   "samples": [
     {
-      "name": "दो दीवाने शहर में",
-      "url": "http://ptccloud.lsdwedsfsc.site/vod/36DC2735689F45719355E975BCC2BBFC_media.ts",
-      "icono": "https://image.tmdb.org/t/p/original/oGav9OuIJTODO9p9hXJBTJHuawM.jpg",
-      "iconoHorizontal": "https://image.tmdb.org/t/p/original/tAh0dkZiOSICkRlv9wXOsvcNl4s.jpg",
-      "iconpng": "https://image.tmdb.org/t/p/original/ArWRoZlNYZycspcxmW991YtxtOQ.png",
+      "name": "Mexicali",
+      "url": "http://ptccloud.lsdwedsfsc.site/vod/9FFD24E274F84902AC1510953E9B1094_media.ts",
+      "icono": "https://image.tmdb.org/t/p/original/kQbmqipH7YvmILnB0PF8faOEcUp.jpg",
+      "iconoHorizontal": "https://image.tmdb.org/t/p/original/zFvkgLY85gffP1ulQgzkEQPL8Nr.jpg",
+      "iconpng": "",
       "type": "PELICULA",
-      "descripcion": "Two socially awkward millennials in Mumbai find love while struggling with self-acceptance. As they battle insecurities and societal pressure, their journey takes them from city chaos to mountain serenity.",
+      "descripcion": "A former special forces contractor is forced out of retirement as an avocado farmer in Mexico when local gangsters try to force him and his family off their farm.",
       "anio": "2026",
-      "genero": "Romance, Drama, Comedia",
-      "duracion": "137 min"
+      "genero": "Acción, Drama",
+      "duracion": "99 min"
     }
   ]
 }
