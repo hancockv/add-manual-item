@@ -1,15 +1,15 @@
 {
-  "timestamp_utc": "2026-04-12T04:54:15.562616Z",
+  "timestamp_utc": "2026-04-28T05:32:14.803752Z",
   "input": {
-    "url": "https://vikingfile.com/d/9ToYX4Aqyk/The.Super.Mario.Galaxy.Movie.2026.1080p.DCPRIP.mkv",
-    "nombre": "Super Mario Galaxy la película (2026)",
+    "url": "http://ptccloud.lsdwedsfsc.site/vod/36DC2735689F45719355E975BCC2BBFC_media.ts",
+    "nombre": "Nosotros, lejos del ruido (2026)",
     "grupo": "Ultimos agregados"
   },
   "enriched": true,
   "language": "es-MX",
   "fallback_language": "en-US",
   "groups_total": 1,
-  "samples_total": 49,
+  "samples_total": 50,
   "replaced_existing_url": false,
   "output_dir": "tmdb_manual_create"
 }
