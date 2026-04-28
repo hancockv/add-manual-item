@@ -3,6 +3,18 @@
     "name": "Ultimos agregados",
     "samples": [
       {
+        "name": "Te van a matar",
+        "url": "http://ptccloud.lsdwedsfsc.site/vod/4845AEAD7A6D492D96E2242B8D2621A3_media.ts",
+        "icono": "https://image.tmdb.org/t/p/original/jOYxV166K7b7HWnswjoZKxi3sux.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
+        "iconpng": "https://image.tmdb.org/t/p/original/yCLEYklOTps1co7MNqtTrLnLx6Y.png",
+        "type": "PELICULA",
+        "descripcion": "Una mujer acepta un trabajo como ama de llaves en un rascacielos de Nueva York, sin conocer el historial de desapariciones del edificio. Pronto se da cuenta de que la comunidad está rodeada de misterio.",
+        "anio": "2026",
+        "genero": "Terror, Acción, Comedia",
+        "duracion": "94 min"
+      },
+      {
         "name": "El sonido de la muerte",
         "url": "http://ptccloud.lsdwedsfsc.site/vod/4EC0F9B9A2FD450AA0D3DD2D26F5DF77_media.ts",
         "icono": "https://image.tmdb.org/t/p/original/cApRXj6meulAQMYQrhjfVvZEItl.jpg",
