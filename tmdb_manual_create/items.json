@@ -3,6 +3,18 @@
     "name": "Ultimos agregados",
     "samples": [
       {
+        "name": "Frontera",
+        "url": "http://ptccloud.lsdwedsfsc.site/vod/19D0BDF528F7416DB4E12A6EE17343A6_media.ts",
+        "icono": "https://image.tmdb.org/t/p/original/foMuncrlw8Mp6mC3L6Rg92VyTM2.jpg",
+        "iconoHorizontal": "https://image.tmdb.org/t/p/original/ntnPnUuOOV4NXtfpJcpO1FnYS6Z.jpg",
+        "iconpng": "",
+        "type": "PELICULA",
+        "descripcion": "Año 1943, plena guerra en Europa. Franco ha bloqueado el paso de judíos que huyen de la represión nazi por los Pirineos. En la aduana de un pueblo fronterizo, Manel Grau, un funcionario con pasado republicano, decide contravenir las órdenes ayudado por Juliana, una vecina del pueblo, y Jerôme, un pasador francés. Entre todos inician una cruzada para ayudar a huir a tantos judíos como sea posible. Es entonces cuando Manel se verá atrapado en una peligrosa odisea que despertará en él y en su mujer Mercé viejos fantasmas de la todavía reciente guerra civil española.",
+        "anio": "2025",
+        "genero": "Suspense",
+        "duracion": "101 min"
+      },
+      {
         "name": "El Último Conquistador",
         "url": "http://ptccloud.lsdwedsfsc.site/vod/01B7AE8EB8B44FC0995582937F293826_media.ts",
         "icono": "https://image.tmdb.org/t/p/original/oBKLdMvotFzZyaG39hRwJUJRzfJ.jpg",
